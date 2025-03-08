@@ -1,8 +1,8 @@
-# TwiChain's Client
-
 <div>
     <img width="240" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/src/assets/twichain_w.png"/>
 </div>
+
+# TwiChain's Client
 
 Need to be used with [TwiChain](https://github.com/LSQzzx/TwiChain)
 
