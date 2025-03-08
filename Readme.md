@@ -24,3 +24,11 @@ This is a social platform system based on blockchain technology, supporting func
     <h2>User Space</h2>
     <img src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_4.png"/>
 </div>
+
+## Contribution Guide
+
+Welcome to submit a Pull Request or raise an Issue!
+
+## License
+
+This project is open-sourced under the MIT License, see the LICENSE file for details.
