@@ -1,5 +1,7 @@
 # TwiChain's Client
 
+![twichain logo](https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/src/assets/twichain_w.png)
+
 Need to be used with [TwiChain](https://github.com/LSQzzx/TwiChain)
 
 需配合[TwiChain](https://github.com/LSQzzx/TwiChain)使用
