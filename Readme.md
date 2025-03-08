@@ -10,9 +10,9 @@ This is a social platform system based on blockchain technology, supporting func
 
 **You need to generate an Ed25519 key pair yourself to login**
 
-<div align="center">
-    <img width="480" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_1.png"/>
-    <img width="480" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_2.png"/>
-    <img width="480" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_3.png"/>
-    <img width="480" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_4.png"/>
+<div style="text-align: center">
+    <img width="600" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_1.png"/>
+    <img width="600" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_2.png"/>
+    <img width="600" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_3.png"/>
+    <img width="600" src="https://raw.githubusercontent.com/LSQzzx/TwiChain-Client/refs/heads/main/img/example_4.png"/>
 </div>
